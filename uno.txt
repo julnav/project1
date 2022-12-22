@@ -2,3 +2,4 @@ This is one
 This is new
 
 // Comment from remote
+// Comment from remote
