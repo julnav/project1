@@ -6,3 +6,4 @@ This is new
 // Comment from remote
 // Comment from remote 1
 // Comment from remote 2
+4. Testing pull --rebase (commit2)
